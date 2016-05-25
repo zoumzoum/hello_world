@@ -1,2 +1,2 @@
 # hello_world
-My very first repository
+I love soccer, basketball, horse racing, tennis, and of course music
